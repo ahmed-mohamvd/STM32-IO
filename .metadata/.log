@@ -1,0 +1,29 @@
+!SESSION 2026-02-19 02:52:42.163 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2026-02-19 02:54:16.284
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-02-19 02:54:16.286
+!MESSAGE Log4j2 initialized with config file C:\home\ahmed\STM32-IO\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-02-19 02:54:44.516
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-02-19 03:01:00.607
+!MESSAGE Indexed '02_LED_Output' (17 sources, 78 headers) in 8.9 sec: 3,647 declarations; 13,278 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-02-19 04:32:06.160
+!MESSAGE Indexed '03_GPIO_Input' (17 sources, 78 headers) in 5.62 sec: 3,647 declarations; 13,278 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+
+!ENTRY org.eclipse.core.resources 2 2 2026-02-19 04:35:21.538
+!MESSAGE Save operation warnings.
+!SUBENTRY 1 org.eclipse.core.resources 2 234 2026-02-19 04:35:21.538
+!MESSAGE The project description file (.project) for '03_GPIO_Input' was missing.  This file contains important information about the project.  A new project description file has been created, but some information about the project may have been lost.
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-02-19 04:35:40.933
+!MESSAGE Indexed '03_GPIO_Input_Button Read' (17 sources, 78 headers) in 3.8 sec: 3,647 declarations; 13,278 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
